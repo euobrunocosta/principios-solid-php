@@ -1,4 +1,4 @@
-# Pricípios SOLID em PHP com exemplos
+# Princípios SOLID em PHP com exemplos
 
 SOLID é um conjunto de princípios do design orientado ao objeto que tem o objetivo de fazer com que seu código fique mais flexível e de mais fácil manutenibilidade.
 
